@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52ae6d13-fa68-411b-9fac-59535749e5d2" name="Default Changelist" comment="UpdateData">
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if_else_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_nested_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_overload_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_swirch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="52ae6d13-fa68-411b-9fac-59535749e5d2" name="Default Changelist" comment="UpdateData Addfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +139,42 @@
       <option name="project" value="LOCAL" />
       <updated>1609937800403</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UpdateData">
+      <created>1610271711820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271711820</updated>
+    </task>
+    <task id="LOCAL-00006" summary="UpdateData">
+      <created>1610271748562</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271748562</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UpdateData">
+      <created>1610271758804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271758804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="UpdateData Addfile">
+      <created>1610271797526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271797526</updated>
+    </task>
+    <task id="LOCAL-00009" summary="UpdateData Addfile">
+      <created>1610271835522</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271835522</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +192,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Login" />
     <MESSAGE value="UpdateData" />
-    <option name="LAST_COMMIT_MESSAGE" value="UpdateData" />
+    <MESSAGE value=" Addfile" />
+    <MESSAGE value="UpdateData Addfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="UpdateData Addfile" />
   </component>
 </project>
