@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52ae6d13-fa68-411b-9fac-59535749e5d2" name="Default Changelist" comment="Update file">
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_check_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="52ae6d13-fa68-411b-9fac-59535749e5d2" name="Default Changelist" comment="Update file LAB6,7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +18,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="299bd5c3-cba5-4e8a-9e29-e837c15d825d" />
+  </component>
   <component name="ProjectId" id="1meOte48rqWXWeSgwTO6pRxfaHr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +38,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ex_check_number">
+  <component name="RunManager" selected="Application.StudentApp">
+    <configuration name="Exercise_LAB5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.Exercise_LAB5_2" />
+      <module name="OOP_2563_362211760006" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB7.StudentApp" />
+      <module name="OOP_2563_362211760006" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_StringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB6.ex_StringToken" />
+      <module name="OOP_2563_362211760006" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LAB6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex_check_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LAB4.ex_check_number" />
       <module name="OOP_2563_362211760006" />
@@ -50,51 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_if" />
+    <configuration name="ex_stringl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB6.ex_stringl" />
       <module name="OOP_2563_362211760006" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAB3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_if_else_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_if_else_if" />
-      <module name="OOP_2563_362211760006" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_method" />
-      <module name="OOP_2563_362211760006" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex_overload_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_overload_method" />
-      <module name="OOP_2563_362211760006" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LAB3.*" />
+          <option name="PATTERN" value="LAB6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentApp" />
+        <item itemvalue="Application.ex_StringToken" />
+        <item itemvalue="Application.ex_stringl" />
+        <item itemvalue="Application.Exercise_LAB5_2" />
         <item itemvalue="Application.ex_check_number" />
-        <item itemvalue="Application.ex_overload_method" />
-        <item itemvalue="Application.ex_method" />
-        <item itemvalue="Application.ex_if_else_if" />
-        <item itemvalue="Application.ex_if" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +256,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610272114620</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update file LAB6,7">
+      <created>1611032544942</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611032544942</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update file LAB6,7">
+      <created>1611032589899</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611032589899</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update file LAB6,7">
+      <created>1611032603803</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611032603803</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +300,7 @@
     <MESSAGE value="UpdateData Addfile" />
     <MESSAGE value="UpdateData file" />
     <MESSAGE value="Update file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update file" />
+    <MESSAGE value="Update file LAB6,7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update file LAB6,7" />
   </component>
 </project>
